@@ -1,5 +1,5 @@
 # OS
-
+I have used xv6 operating system(RISC-V verion) for the labwork. xv6 is MIT's reimplementation of Unix v6.
 Lab1:
 Created system calls to retrieve system information and running processes. The sysinfo system call returned the number of active processes, the number of system call made and the number of free memory pages available. The procinfo system call returned the ppid, number of system calls made and the page usage of each active process.
 
